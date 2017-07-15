@@ -18,5 +18,4 @@ This project is a fork of [Microsoft Facial Recognition Door](https://microsoft.
 ## Contact
 
 Email : [mithra@ieee.org](mailto:mithra@ieee.org)
-
 [Mithra Talluri](https://github.com/MithraTalluri)

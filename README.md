@@ -2,7 +2,7 @@
 
 Using the Microsoft Face API, we built iSeguro, a device which detects and identifies the people who try to enter your house. If there's an unauthorized user, the owner is notified about it. Else, the authorized person is let in.
 
-# Working
+## Working
 
 When motion is detected, the camera automatically takes pictures and analyzes them. There is a 'Whitelist' or a list of authorized people to enter the room. If the person is identified as a whitelist member, then he/she is let inside. Else, the owner is notified about an intruder
 
